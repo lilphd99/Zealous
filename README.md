@@ -1,0 +1,3 @@
+# Zealous
+
+Base text analysis. 
